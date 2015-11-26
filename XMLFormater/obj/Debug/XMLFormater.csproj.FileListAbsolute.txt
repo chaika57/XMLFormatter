@@ -1,0 +1,9 @@
+C:\Users\yulya\Desktop\XMLFormater\XMLFormater\bin\Debug\XMLFormater.exe.config
+C:\Users\yulya\Desktop\XMLFormater\XMLFormater\bin\Debug\XMLFormater.exe
+C:\Users\yulya\Desktop\XMLFormater\XMLFormater\bin\Debug\XMLFormater.pdb
+C:\Users\yulya\Desktop\XMLFormater\XMLFormater\obj\Debug\XMLFormater.Form1.resources
+C:\Users\yulya\Desktop\XMLFormater\XMLFormater\obj\Debug\XMLFormater.Properties.Resources.resources
+C:\Users\yulya\Desktop\XMLFormater\XMLFormater\obj\Debug\XMLFormater.csproj.GenerateResource.Cache
+C:\Users\yulya\Desktop\XMLFormater\XMLFormater\obj\Debug\XMLFormater.exe
+C:\Users\yulya\Desktop\XMLFormater\XMLFormater\obj\Debug\XMLFormater.pdb
+C:\Users\yulya\Desktop\XMLFormater\XMLFormater\obj\Debug\XMLFormater.csprojResolveAssemblyReference.cache
